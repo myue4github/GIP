@@ -6,3 +6,4 @@ Start Chapter 2 Sun Nov 9 13:40:41 PST 2014
 EXTRA Sun Nov 9 14:14:57 PST 2014
 Add line break between chapters Sun Nov 9 15:01:38 PST 2014
 Add Chapter 1 content Sun Nov 9 15:15:58 PST 2014
+Add preface text Tue Nov 11 17:14:44 PST 2014
